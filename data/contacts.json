@@ -118,7 +118,12 @@
     "state": "KY",
     "zip": "42330",
     "country": "",
-    "notes": ""
+    "notes": "",
+    "years": {
+      "2025": {
+        "sent": true
+      }
+    }
   },
   {
     "id": "c178085349851210",
@@ -667,7 +672,8 @@
     "notes": "",
     "years": {
       "2025": {
-        "sent": true
+        "sent": true,
+        "received": true
       }
     }
   },
